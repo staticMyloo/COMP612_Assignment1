@@ -1,0 +1,8 @@
+﻿  Source.c
+C:\Users\myles\OneDrive - AUT University\Year Three\Sem 1\COMP612\Assignment_1\Assignment_1\Source.c(515,38): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\myles\OneDrive - AUT University\Year Three\Sem 1\COMP612\Assignment_1\Assignment_1\Source.c(527,38): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\myles\OneDrive - AUT University\Year Three\Sem 1\COMP612\Assignment_1\Assignment_1\Source.c(894,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\myles\OneDrive - AUT University\Year Three\Sem 1\COMP612\Assignment_1\Assignment_1\Source.c(961,33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Assignment_1.vcxproj -> C:\Users\myles\OneDrive - AUT University\Year Three\Sem 1\COMP612\Assignment_1\Debug\Assignment_1.exe
+  C:\Users\myles\OneDrive - AUT University\Year Three\Sem 1\COMP612\Assignment_1\Assignment_1\freeglut\bin\freeglut.dll
+  1 File(s) copied
